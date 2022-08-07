@@ -1,3 +1,5 @@
 One issue with matching LIKE
 
-Is "Test" a transaction category or a software test category?
+Is "Test" a transaction category or a  software test category?
+
+Charts are made in Plotly Express, this requires converting Spark dataframes to Pandas dataframes. Unique values need to be added.
