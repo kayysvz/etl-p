@@ -3,3 +3,7 @@ One issue with matching LIKE
 Is "Test" a transaction category or a  software test category?
 
 Charts are made in Plotly Express, this requires converting Spark dataframes to Pandas dataframes. Unique values need to be added.
+
+Part 2 I'm using requests and pandas to load data from an API endpoint and into a Spark df.
+
+Having trouble with show, again. - This time it was solved by adding a PYSPARK_PYTHON environment variable and setting it to 'python'
