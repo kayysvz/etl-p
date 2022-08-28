@@ -8,4 +8,6 @@ Part 2 I'm using requests and pandas to load data from an API endpoint and into 
 
 Having trouble with show, again. - This time it was solved by adding a PYSPARK_PYTHON environment variable and setting it to 'python'
 
-The project was updated with new requirements! 
+The project was updated with new requirements! Some questions needed to be moved, new questions, edited questions.
+
+Widgets showing double results again
