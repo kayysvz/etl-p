@@ -1,4 +1,4 @@
-One issue with matching LIKE
+One issue with matching LIKE. I didn't use it.
 
 Is "Test" a transaction category or a  software test category?
 
@@ -10,4 +10,4 @@ Having trouble with show, again. - This time it was solved by adding a PYSPARK_P
 
 The project was updated with new requirements! Some questions needed to be moved, new questions, edited questions.
 
-Widgets showing double results again
+Widgets showing double results again. This may be a bug with this version of VSCode not printing Ipywidgets automatically, which I resolved by using a decorator for printing, but now it prints twice.
